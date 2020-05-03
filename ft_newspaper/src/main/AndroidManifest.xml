@@ -1,0 +1,6 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="spa.lyh.cn.ft_newspaper" >
+    <application>
+        <activity android:name=".SecondActivity"/>
+    </application>
+</manifest>

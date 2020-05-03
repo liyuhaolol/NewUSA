@@ -1,0 +1,14 @@
+ext {
+    configs = [
+            USE_RELEASE_URL : false,
+            USE_RELEASE_SITE : true,
+
+            CMP_DEBUG_URL : 'http://10.8.10.116:8080',
+            AMS_DEBUG_URL : 'http://10.8.13.245:8081',
+            UMS_DEBUG_URL : 'http://10.8.10.41:8080',
+
+            CMP_RELEASE_URL : 'http://app.sinoing.net',
+            AMS_RELEASE_URL : 'http://ams.sinoing.net',
+            UMS_RELEASE_URL : 'http://ums.sinoing.net',
+    ]
+}

@@ -1,2 +1,3 @@
 rootProject.name='NewUSA'
 include ':app'
+include ':ft_newspaper'
