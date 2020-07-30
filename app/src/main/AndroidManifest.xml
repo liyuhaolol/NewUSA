@@ -3,7 +3,7 @@
     package="com.bjhwzx.cms.news.android">
 
     <application
-        android:name=".App"
+        android:name="com.bjhwzx.cms.news.android.App"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
