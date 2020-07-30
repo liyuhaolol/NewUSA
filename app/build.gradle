@@ -5,8 +5,8 @@ android {
     buildToolsVersion "29.0.3"
 
     defaultConfig {
-        applicationId "com.bjhwzx.cms.news.android"
-        minSdkVersion 19
+        applicationId "com.bjhwzx.cms.news.aaa"
+        minSdkVersion 23
         targetSdkVersion 29
         versionCode 1
         versionName "1.0"

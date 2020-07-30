@@ -1,4 +1,4 @@
-package com.bjhwzx.cms.news.android;
+package com.bjhwzx.cms.news.aaa;
 
 import spa.lyh.cn.ft_newspaper.BBA;
 
