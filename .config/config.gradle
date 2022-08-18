@@ -10,5 +10,7 @@ ext {
             CMP_RELEASE_URL : 'http://app.sinoing.net',
             AMS_RELEASE_URL : 'http://ams.sinoing.net',
             UMS_RELEASE_URL : 'http://ums.sinoing.net',
+
+            APP_ID : 'com.bjhwzx.cms.news.android',
     ]
 }
